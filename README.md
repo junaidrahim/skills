@@ -1,15 +1,18 @@
 # Skills
 
-Custom Clawdbot skills for personal and work use.
+Personal Clawdbot skills for Junaid.
 
-## Structure
+## Skills
 
-```
-skills/
-├── personal/     # Personal skills (home automation, side projects, etc.)
-├── work/         # Work-related skills (Atlan-specific tooling, etc.)
-└── shared/       # Skills usable in both contexts
-```
+| Skill | Purpose |
+|-------|---------|
+| `goodmorning` | Morning briefing routine |
+| `reflection` | Periodic reflection routines |
+| `undertones` | Writing for Undertones (Substack) |
+| `blogs` | Technical blog writing |
+| `obsidian` | Obsidian vault management |
+| `letters` | Drafting letters for people |
+| `people` | CRM management in Obsidian |
 
 ## Usage
 
@@ -17,9 +20,7 @@ Point Clawdbot to this directory in your config:
 
 ```yaml
 skills:
-  - /path/to/skills/personal
-  - /path/to/skills/work
-  - /path/to/skills/shared
+  - /path/to/skills
 ```
 
 ## Creating a Skill
