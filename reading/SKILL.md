@@ -1,5 +1,5 @@
 ---
-name: tracking-reading
+name: reading
 description: Manage Junaid's quarterly reading lists. Track books, check progress, carry over unread titles, and nudge for reading time. Use when discussing books, updating reading progress, or planning what to read next.
 ---
 
@@ -73,11 +73,11 @@ Workflow:
 1. Junaid sends voice note with reflections
 2. Transcribe the audio
 3. Summarize into a structured note
-4. Save to `Notes/Books/Book Title.md`
+4. Save to `Notes/Book Title.md` (use tags, not folders)
 
 Reflection note format:
 ```markdown
-#book #reflection
+#book
 
 **Book:** Title by Author
 **Finished:** YYYY-MM-DD
