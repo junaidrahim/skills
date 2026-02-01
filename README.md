@@ -4,15 +4,15 @@ Personal Clawdbot skills for Junaid.
 
 ## Skills
 
-| Skill | Purpose |
-|-------|---------|
-| `goodmorning` | Morning briefing routine |
-| `reflection` | Periodic reflection routines |
-| `undertones` | Writing for Undertones (Substack) |
-| `blogs` | Technical blog writing |
-| `obsidian` | Obsidian vault management |
-| `letters` | Drafting letters for people |
-| `people` | CRM management in Obsidian |
+| Skill         | Purpose                           |
+| ------------- | --------------------------------- |
+| `goodmorning` | Morning briefing routine          |
+| `reflection`  | Periodic reflection routines      |
+| `undertones`  | Writing for Undertones (Substack) |
+| `blogs`       | Technical blog writing            |
+| `obsidian`    | Obsidian vault management         |
+| `letters`     | Drafting letters for people       |
+| `people`      | CRM management in Obsidian        |
 
 ## Usage
 
