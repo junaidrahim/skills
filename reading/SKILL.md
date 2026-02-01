@@ -36,11 +36,21 @@ Picking up a tentative list of books that are to be read in this quarter.
 
 ## Workflow
 
-### Adding Books
+### To Be Read List
 
-When Junaid mentions a book to read:
-1. Add to current quarter's list as `- [ ] Book Title by Author`
-2. Or add to daily note with tag for later processing
+Maintain a single note for book recommendations: `Notes/To Be Read.md`
+
+When Junaid finds a book or asks to add one:
+1. Add to `To Be Read.md` with source/context if available
+2. Format: `- Book Title by Author — (source/who recommended)`
+
+This is the backlog. Quarterly lists pull from here.
+
+### Adding to Quarterly List
+
+When starting a quarter or actively reading:
+1. Pick from `To Be Read.md`
+2. Add to current quarter's list as `- [ ] Book Title by Author`
 
 ### Tracking Progress
 
@@ -54,6 +64,38 @@ At start of new quarter:
 2. Copy unread books from previous quarter
 3. Add new books for the quarter
 4. Set Status: In Progress
+
+### Book Reflections (Voice Dumps)
+
+After finishing a book, Junaid does a **voice dump** of his thoughts.
+
+Workflow:
+1. Junaid sends voice note with reflections
+2. Transcribe the audio
+3. Summarize into a structured note
+4. Save to `Notes/Books/Book Title.md`
+
+Reflection note format:
+```markdown
+#book #reflection
+
+**Book:** Title by Author
+**Finished:** YYYY-MM-DD
+
+## Summary
+(Brief plot/premise)
+
+## Thoughts
+(Junaid's reflections, summarized from voice dump)
+
+## Quotes / Highlights
+(If mentioned)
+
+## Rating
+(If given)
+```
+
+Keep the voice of the reflection — don't over-sanitize.
 
 ## Heartbeat Integration
 
