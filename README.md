@@ -15,6 +15,7 @@ Personal OpenClaw skills for Junaid.
 | `people` | Personal CRM and conversation tracker in Obsidian |
 | `reading` | Quarterly reading list management and progress tracking |
 | `learning` | Structured learning quests with syllabi, deadlines, and project outputs |
+| `coding` | Code workflow: branch-first, PRs, research-plan-implement loop, Claude Code |
 
 ## Usage
 
