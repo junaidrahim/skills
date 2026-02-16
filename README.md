@@ -1,22 +1,24 @@
 # Skills
 
-Personal Clawdbot skills for Junaid.
+Personal OpenClaw skills for Junaid.
 
 ## Skills
 
-| Skill         | Purpose                           |
-| ------------- | --------------------------------- |
-| `goodmorning` | Morning briefing routine          |
-| `reflection`  | Periodic reflection routines      |
-| `undertones`  | Writing for Undertones (Substack) |
-| `blogs`       | Technical blog writing            |
-| `obsidian`    | Obsidian vault management         |
-| `letters`     | Drafting letters for people       |
-| `people`      | CRM management in Obsidian        |
+| Skill | Purpose |
+| --- | --- |
+| `goodmorning` | Morning briefing — reviews tasks, asks about mood & priorities, creates daily note |
+| `reflection` | Periodic reflection routines (weekly, monthly, yearly) |
+| `undertones` | Writing emo, reflective essays for Undertones (Substack) |
+| `blogs` | Technical blog writing for junaid.foo |
+| `obsidian` | Obsidian vault conventions and note management |
+| `letters` | Weekly letter-writing practice |
+| `people` | Personal CRM and conversation tracker in Obsidian |
+| `reading` | Quarterly reading list management and progress tracking |
+| `learning` | Structured learning quests with syllabi, deadlines, and project outputs |
 
 ## Usage
 
-Point Clawdbot to this directory in your config:
+Point OpenClaw to this directory in your config:
 
 ```yaml
 skills:
@@ -34,4 +36,4 @@ my-skill/
 └── refs/         # Reference docs (optional)
 ```
 
-See [Clawdbot docs](https://docs.clawd.bot) for full skill authoring guide.
+See [OpenClaw docs](https://docs.openclaw.ai) for the full skill authoring guide.
