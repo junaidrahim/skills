@@ -14,13 +14,22 @@ Rules for working on code projects.
 
 3. **Use Claude Code** for running prompts, executing commands, and driving implementation. Prefer it over manual shell work when possible.
 
+4. **Conventional Commits.** Always use the [Conventional Commits](https://www.conventionalcommits.org/) standard (`feat:`, `fix:`, `chore:`, `docs:`, etc.).
+
+5. **Co-author commits.** Every commit should include:
+   ```
+   Co-authored-by: Claude Opus 4 <noreply@anthropic.com>
+   ```
+
+6. **Repos live in `~/Code`.** Always create and work on repositories in `/Users/junaidrahim/Code/`.
+
 ## Workflow
 
 ```
-1. cd into the project repo
+1. cd ~/Code/<project>
 2. git checkout -b <descriptive-branch-name>
 3. Make changes (research → plan → implement for big ones)
-4. Commit with clear messages
+4. Commit with conventional commit messages + co-author trailer
 5. Push and open a PR
 6. Share the PR link
 ```
@@ -28,5 +37,5 @@ Rules for working on code projects.
 ## Notes
 
 - Keep PRs focused — one concern per PR when possible.
-- Write commit messages that explain *why*, not just *what*.
+- Commit messages: `type(scope): description` — explain *why*, not just *what*.
 - If unsure about scope or approach, ask before going deep.
