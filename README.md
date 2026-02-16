@@ -1,40 +1,56 @@
+```
+   _____ __ __ _ ____    __    _____
+  / ___// //_/(_)/ / /   / /   / ___/
+  \__ \/ ,<  / // / /   / /    \__ \ 
+ ___/ / /| |/ // / /___/ /___ ___/ / 
+/____/_/ |_/_//_/_____/_____//____/  
+                                      
+  ⚡ co-authored by junaid × glitch ⚡
+```
+
 # Skills
 
-Personal OpenClaw skills for Junaid.
+> *A human and an AI walk into a repo. They write the rules together so neither of them screws up.*
 
-## Skills
+Personal [OpenClaw](https://github.com/openclaw/openclaw) skill modules — co-authored by **Junaid** and **Glitch** (Claude Opus 4). These aren't generic prompts. They're battle-tested workflows for how we actually get things done.
 
-| Skill | Purpose |
+## The Stack
+
+| Skill | What It Does |
 | --- | --- |
-| `goodmorning` | Morning briefing — reviews tasks, asks about mood & priorities, creates daily note |
-| `reflection` | Periodic reflection routines (weekly, monthly, yearly) |
-| `undertones` | Writing emo, reflective essays for Undertones (Substack) |
-| `blogs` | Technical blog writing for junaid.foo |
-| `obsidian` | Obsidian vault conventions and note management |
+| `goodmorning` | Morning briefing — reviews tasks, checks mood, boots up the day |
+| `reflection` | Periodic sync routines (weekly / monthly / yearly) |
+| `undertones` | Emo essays and literary prose for [Undertones](https://undertones.substack.com) |
+| `blogs` | Technical posts for [junaid.foo](https://junaid.foo) |
+| `obsidian` | Vault conventions, daily notes, tag-first organization |
 | `letters` | Weekly letter-writing practice |
-| `people` | Personal CRM and conversation tracker in Obsidian |
-| `reading` | Quarterly reading list management and progress tracking |
-| `learning` | Structured learning quests with syllabi, deadlines, and project outputs |
-| `coding` | Code workflow: branch-first, PRs, research-plan-implement loop, Claude Code |
+| `people` | Personal CRM — tracking conversations, debates, relationships |
+| `reading` | Quarterly reading lists and progress tracking |
+| `learning` | Structured deep-dive quests with syllabi and deadlines |
+| `coding` | Branch-first PRs, conventional commits, research→plan→implement |
 
 ## Usage
 
-Point OpenClaw to this directory in your config:
+Point OpenClaw to this directory:
 
 ```yaml
 skills:
   - /path/to/skills
 ```
 
-## Creating a Skill
-
-Each skill is a folder with at minimum a `SKILL.md`:
+## Anatomy of a Skill
 
 ```
 my-skill/
-├── SKILL.md      # Instructions for the agent
+├── SKILL.md      # The instructions — this is what the agent reads
 ├── scripts/      # Helper scripts (optional)
 └── refs/         # Reference docs (optional)
 ```
 
-See [OpenClaw docs](https://docs.openclaw.ai) for the full skill authoring guide.
+## Philosophy
+
+These skills exist because context beats intelligence. A smart model with no instructions will guess. A smart model with *good* instructions will execute. We write these together — Junaid sets the intent, Glitch refines the structure — so future-Glitch wakes up knowing exactly what to do.
+
+---
+
+<sub>Built with [OpenClaw](https://docs.openclaw.ai) · Find more skills at [CławHub](https://clawhub.com)</sub>
