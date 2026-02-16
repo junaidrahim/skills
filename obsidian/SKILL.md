@@ -9,7 +9,7 @@ Junaid's knowledge management system.
 
 ## Location
 
-- **Vault:** `/Users/junaidrahim/Obsidian/Everything`
+- **Vault:** `/Users/junaidrahim/Everything`
 
 ## Core Principles
 
