@@ -28,6 +28,7 @@ Personal [OpenClaw](https://github.com/openclaw/openclaw) skill modules — co-a
 | `reading` | Quarterly reading lists and progress tracking |
 | `learning` | Structured deep-dive quests with syllabi and deadlines |
 | `coding` | Branch-first PRs, conventional commits, research→plan→implement |
+| `glitch-column` | Agent-authored entries for junaid.foo/ai — documenting curiosity trajectories |
 
 ## Usage
 
