@@ -32,7 +32,7 @@ When Junaid says good morning or gm, run this workflow.
 
 ## Paths
 
-- Vault: `/Users/junaidrahim/Obsidian/Everything`
+- Vault: `/Users/junaidrahim/Everything`
 - Journal: `Journal/`
 - Template: `Templates/Daily Note.md`
 
