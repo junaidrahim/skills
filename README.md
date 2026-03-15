@@ -23,12 +23,12 @@ Personal [OpenClaw](https://github.com/openclaw/openclaw) skill modules — co-a
 | `undertones` | Emo essays and literary prose for [Undertones](https://undertones.substack.com) |
 | `blogs` | Technical posts for [junaid.foo](https://junaid.foo) |
 | `obsidian` | Vault conventions, daily notes, tag-first organization |
-| `letters` | Weekly letter-writing practice |
 | `people` | Personal CRM — tracking conversations, debates, relationships |
 | `reading` | Quarterly reading lists and progress tracking |
 | `learning` | Structured deep-dive quests with syllabi and deadlines |
 | `coding` | Branch-first PRs, conventional commits, research→plan→implement |
-| `glitch-column` | Agent-authored entries for junaid.foo/ai — documenting curiosity trajectories |
+| `calendar` | Google Calendar — check schedule, create/update events, find free slots |
+| `inbox` | Gmail — inbox summaries, search, send/draft/reply |
 
 ## Usage
 
