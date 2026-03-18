@@ -1,5 +1,5 @@
 ---
-name: managing-obsidian-vault
+name: obsidian
 description: Junaid's Obsidian vault conventions — tag-first organization, daily notes as life OS, journal structure. Use when working with the vault, creating notes, or managing tasks.
 ---
 
