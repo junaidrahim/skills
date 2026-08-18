@@ -1,0 +1,30 @@
+[project]
+name = "__PROJECT_TITLE__"
+slug = "__PROJECT_SLUG__"
+created = "__CREATED_DATE__"
+status = "framing"
+domain = "applied-ai"
+
+[goal]
+statement = ""
+hypothesis = ""
+target_population = ""
+baseline = ""
+primary_metric = ""
+minimum_useful_effect = ""
+success_condition = ""
+stop_condition = ""
+
+[autonomy]
+mode = "not-granted"
+approved_experiments = []
+max_experiments = 0
+max_wall_time_hours = 0.0
+max_cost_usd = 0.0
+network = false
+external_writes = false
+
+[data]
+available_sources = []
+expected_distribution = ""
+known_risks = []

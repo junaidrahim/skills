@@ -26,6 +26,7 @@ Personal [OpenClaw](https://github.com/openclaw/openclaw) skill modules — co-a
 | `people` | Personal CRM — tracking conversations, debates, relationships |
 | `reading` | Quarterly reading lists and progress tracking |
 | `learning` | Structured deep-dive quests with syllabi and deadlines |
+| `research` | Reproducible applied-AI experiments with immutable methods, versioned data, DuckDB results, and local reports |
 | `coding` | Branch-first PRs, conventional commits, research→plan→implement |
 | `calendar` | Google Calendar — check schedule, create/update events, find free slots |
 | `inbox` | Gmail — inbox summaries, search, send/draft/reply |
